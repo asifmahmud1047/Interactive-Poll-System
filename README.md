@@ -2,6 +2,9 @@
 
 An interactive poll system built with React that allows users to create, vote on, and view results of custom polls.
 
+## Live Website
+[Interactive-Poll-System](https://interactive-poll-system.netlify.app/)
+
 ## Features
 
 - Create polls with custom questions and multiple options
@@ -10,7 +13,6 @@ An interactive poll system built with React that allows users to create, vote on
 - Delete polls
 - Simple and intuitive interface
 
-## Getting Started
 
 ### Prerequisites
 
